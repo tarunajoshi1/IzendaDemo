@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001- LoginValid user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9e07b0a-f536-4892-9a6c-95a1501bdeb4</testCaseGuid>
+</TestCaseEntity>

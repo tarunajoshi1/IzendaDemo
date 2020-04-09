@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative Testcases</description>
+   <name>InValidUser_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1df0e3d-06b5-4685-bdcf-99b14f497ea5</testCaseGuid>
+</TestCaseEntity>
