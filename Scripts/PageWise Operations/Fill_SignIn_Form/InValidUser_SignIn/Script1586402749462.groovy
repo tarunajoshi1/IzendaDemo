@@ -19,5 +19,7 @@ WebUI.setText(findTestObject('Page_Sign in  Katalon Solution/User_email'), 'taru
 
 WebUI.setText(findTestObject('Page_Sign in  Katalon Solution/User_Password'), 'test1234')
 
+println ("abc");
+
 WebUI.click(findTestObject('Page_Sign in  Katalon Solution/Login-btn'))
 
